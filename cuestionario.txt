@@ -1,0 +1,10 @@
+Que entiende por "commit"?
+-Es la forma de guardar los cambios que se han realizado dentro de la rama correspondiente a nivel local.
+
+Que entiende como "merge"?
+-No hicimos ejercicio de eso... pero entiendo que es el momento en el que dos ramas paralelas de codigo
+se fucionan para crear una nueva rama que posea los cambios de ambas ramas.
+
+Cual es la diferencia entre "Pull" y "Push"?
+-Push es cuando nosotros subimos los cambios al repositorio
+-Pull es cuando nosotros bajamos los cambios del repositorio
