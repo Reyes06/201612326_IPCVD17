@@ -1,0 +1,10 @@
+Modelo iterativo incremental
+
+Es otra forma de seguir el ciclo de vida del software alterna al modelo cascada.
+Este modelo cubre algunos deficits que tiene el modelo cascada, tal como que se puede retornar a un
+paso anterior de ser necesario. 
+
+Este modelo consiste en seguir de forma iterada el modelo cascada enfocada a los requerimientos de mayor
+importancia hasta terminar los requerimientos. Es iterativo porque se repite de forma continua el 
+modelo cascada para un conjunto de requerimientos y es incremental porque cada iteracion se adiciona a la
+anterior hasta que ya no queden requerimientos por hacer.

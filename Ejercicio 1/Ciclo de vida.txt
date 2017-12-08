@@ -1,0 +1,30 @@
+Ciclo de vida del software
+
+En programaciacion, es necesario establecer cierto orden o modelo que nos ayude a efectuar de forma adecuada
+los pasos y medidas necesarias para poder finalizar el producto de  software con la menor cantidad de 
+errores.
+
+El ciclo de vida del software establece estos 5 pasos basicos para poder diseñar software:
+
+1.- Toma de requerimientos:
+	El desarrollador se reune con el cliente para poder llegar a un acuerdo en cuanto a los
+	requerimientos que el sistema necesita suplir.
+
+2.- Analisis:
+	Este paso consiste en analizar los requerimientos y todos los entornos posibles a los que es posible
+	que sea sometido el software. Busqueda de necesidades.
+
+3.- Diseño:
+	Consiste en buscar las formas mas simples y eficientes de suplementar todas las necesidades que se
+	hayan encontrado en el analisis. Busqueda de soluciones.
+
+4.- Implementacion:
+	Consiste en poner en marcha todas las soluciones propuestas en el diseño. Codificacion del software.
+
+5.- Testeo:
+	Consiste en probar el sofware buscando los errores posibles y de hallarse alguno se corrige.
+	Busqueda de errores.
+
+6.- Mantenimiento:
+	Consiste en el mantenimiento que se le debe de dar al software una vez halla sido entregado al
+	usuario. Tambien se proponen nuevas versiones del software con nuevas funciones.

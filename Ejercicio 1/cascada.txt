@@ -1,0 +1,25 @@
+Modelo Cascada
+
+Es uno de los modelos para el ciclo de vida del software.
+Este modelo consiste en avanzar por etapas bien definidas. Estas etapas son:
+
+----------
+|Analisis|
+----------
+	--------
+	|Diseño|
+	--------
+		------------
+		|Desarrollo|
+		------------
+			---------
+			|Pruebas|
+			---------
+				----------------
+				|Implementacion|
+				----------------
+					---------------
+					|Mantenimiento|
+					---------------
+
+Terminada una se pasa  a la siguiente. No se puede regresar a la etapa anterior.
