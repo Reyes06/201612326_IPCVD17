@@ -1,0 +1,19 @@
+En este texto las ecuaciones diferenciales aparecen en dos capítulos: 8 y 16. Las ecuaciones
+de primer orden se consideran en el capítulo 8 para beneficio de aquellos estudiantes que encuentren
+sus aplicaciones en cursos de física e ingeniería. En el capítulo 16 se consideran la solución
+y las aplicaciones de ecuaciones diferenciales de orden superior. Por supuesto, los capítulos 8 y
+16 pueden combinarse y cubrirse como una unidad en cualquier punto del curso, una vez que se
+haya concluido el capítulo 4. En el apéndice se proporcionan demostraciones de algunos de los
+teoremas más largos. Al final de las secciones correspondientes aparecen esbozos biográficos de
+algunos matemáticos que han impactado de manera importante el desarrollo del cálculo bajo la
+rúbrica de Posdata: Un poco de historia.
+
+Características especiales Cada capítulo empieza con su propia tabla de contenido y una introducción
+al material referido en ese capítulo. En la parte final del libro, después del apéndice, el
+lector encontrará la sección Fórmulas matemáticas, que constituye una revisión compacta de
+conceptos básicos de álgebra, geometría, trigonometría y cálculo: las leyes de los exponentes,
+fórmulas de factorización, desarrollos binomiales, triángulo de Pascal, fórmulas de geometría,
+gráficas y funciones, funciones trigonométricas, funciones exponenciales y logarítmicas, y fórmulas
+de diferenciación e integración.
+
+Pagina 6

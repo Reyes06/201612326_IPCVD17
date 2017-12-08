@@ -1,0 +1,8 @@
+Luego, como antes, cambia el semáforo predatorHasAccess a true, llama a notifyAll y regresa.
+Esta alternancia entre estar separados y estar juntos continúa hasta que (en el método run de la figura
+A9.2) number == encounter.EVENTS – 1, lo cual termina el thread prey. 
+
+Poco después (en el método run de la figura A9.3) i == DELAY.length, lo cual termina el thread predator. 
+Al usar la versión corregida de la clase Encounter que aparece en las figuras A9.5a y A9.5b
+
+Pagina 719
